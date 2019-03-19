@@ -1,2 +1,2 @@
-# react-bolierplate
+# react-boilerplate
 Another try
